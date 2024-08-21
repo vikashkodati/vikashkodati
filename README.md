@@ -19,4 +19,4 @@ I'm Vikash, an experienced engineer and architect currently residing in Seattle,
 ## Key Projects & Contributions:
   
 ## Let's Connect:
-I’m always open to connecting with like-minded professionals, entrepreneurs, and enthusiasts. Feel free to reach out to me on [X.com](#https://www.x.com), [LinkedIn](#https://www.linkedin.com/in/vikashkodati), or explore more about my work on [My Personal Website](#https://www.vikashkodati.com).
+I’m always open to connecting with like-minded professionals, entrepreneurs, and enthusiasts. Feel free to reach out to me on [X.com](https://www.x.com), [LinkedIn](https://www.linkedin.com/in/vikashkodati), or explore more about my work on [My Personal Website](https://www.vikashkodati.com).
