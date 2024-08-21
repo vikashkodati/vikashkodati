@@ -1,4 +1,4 @@
-## Hi there 👋 Vikash Kodati here.
+## Welcome to Vikash Kodati page!
 
 <!--
 **vikashkodati/vikashkodati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Welcome to my page! 
+<p>
 </br>
-I am Vikash Kodati, born in India and now living in Seattle, WA. I am an engineer/architect by heart and humanitarian by birth. Father to a lovely daughter who fills up heart with joy.
+I am Vikash, born in India and now living in Seattle, WA. I am an engineer/architect by heart and humanitarian by birth. Father to a lovely daughter who fills up heart with joy.
 
 <ul>
 <li> As an <b> angel investor </b>, I focus on emerging tech AI and space startups, fostering growth and development in cutting-edge fields. </li>
