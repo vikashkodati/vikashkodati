@@ -21,11 +21,12 @@ I am Vikash Kodati, born in India and now living in Seattle, WA. I am an enginee
 </p>
 
 <h3>Problems I work on</h3>
-- Object Identification 
-- Change Detection
-- Satellite Imagery Acquisition and Insights
-- Model Performance on Edge devices
-
+<ul>
+<li> Object Identification </li>
+<li> Change Detection </li>
+<li> Satellite Imagery Acquisition and Insights </li>
+<li> Model Performance on Edge devices </li>
+</ul>
 
 <h3>Where to find me</h3>
 <p>
