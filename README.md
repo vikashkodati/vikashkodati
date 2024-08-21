@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 <p>Welcome to my page! 
 </br>
-I am Vikash Kodati, born in India and now living in Seattle, WA. I am an engineer/architect by heart and humanitarian by birth.
- As an angel investor, I focus on emerging tech AI and space startups, fostering growth and development in cutting-edge fields. In my role as Treasurer of the IITGAA, I am actively involved in alumni relations and community engagement, strengthening the bonds within our network. A space enthusiast and humanitarian, I balance a demanding career with family life, constantly seeking self-discovery, self-sufficiency, and peace. Living in the Pacific Northwest, I am an avid lover of its natural resources and enjoy exploring Pacific Northwest's stunning beauty.
+I am Vikash Kodati, born in India and now living in Seattle, WA. I am an engineer/architect by heart and humanitarian by birth. Father to a lovely daughter who fills up heart with joy.
+
+<ul>
+<li> As an <b> angel investor </b>, I focus on emerging tech AI and space startups, fostering growth and development in cutting-edge fields. </li>
+<li> In my role as <b> Treasurer of the IITGAA </b>, I am actively involved in alumni relations and community engagement, strengthening the bonds within our network. </li>
+<li> A <b> space enthusiast </b> fascinated by developments in the geospatial and launch sectors. Working to make a mark for myself in this domain. </li>
+<li> I balance a demanding career with family life, constantly seeking self-discovery, self-sufficiency, and <b> freedom </b>. </li>
+</ul>
+Living in the Pacific Northwest, I am an avid lover of its natural resources and enjoy exploring Pacific Northwest's stunning beauty.
 </p>
 
 <h3>Problems I work on</h3>
