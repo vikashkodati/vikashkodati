@@ -1,44 +1,22 @@
-## Welcome to Vikash Kodati page!
+# Welcome to Vikash Kodati's GitHub Profile!
 
-<!--
-**vikashkodati/vikashkodati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vikash, an experienced engineer and architect currently residing in Seattle, WA. Originally from India, I’ve made a journey across disciplines, balancing cutting-edge technology with entrepreneurial ventures, while nurturing a fulfilling personal life.
 
-Here are some ideas to get you started:
+## About Me:
+- **Engineer by Profession:** With a strong foundation in architecture and engineering, I have a deep passion for building scalable systems and solving complex problems. My work spans across AI, space technologies 🚀 , and geospatial data, where I blend technical depth with strategic insight.
+  
+- **Entrepreneur & Angel Investor:** I actively invest in and mentor startups, particularly in the emerging tech and space sectors 🚀 . My focus is on fostering innovation and driving growth in companies that are shaping the future.
+  
+- **Alumni Leader:** As the Treasurer of IITGAA, I’m deeply involved in strengthening the bonds within our alumni community and promoting initiatives that drive impact and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
-</br>
-I am Vikash, born in India and now living in Seattle, WA. I am an engineer/architect by heart and humanitarian by birth. Father to a lovely daughter who fills up heart with joy.
+- **Well-Being Advocate:** I believe in maintaining a holistic balance between professional pursuits and personal well-being. Whether it's exploring the great outdoors in the Pacific Northwest or spending quality time with family, I ensure that life’s important facets receive the attention they deserve.
 
-<ul>
-<li> As an <b> angel investor </b>, I focus on emerging tech AI and space startups, fostering growth and development in cutting-edge fields. </li>
-<li> In my role as <b> Treasurer of the IITGAA </b>, I am actively involved in alumni relations and community engagement, strengthening the bonds within our network. </li>
-<li> A <b> space enthusiast </b> fascinated by developments in the geospatial and launch sectors. Working to make a mark for myself in this domain. </li>
-<li> I balance a demanding career with family life, constantly seeking self-discovery, self-sufficiency, and <b> freedom </b>. </li>
-</ul>
-Living in the Pacific Northwest, I am an avid lover of its natural resources and enjoy exploring Pacific Northwest's stunning beauty.
-</p>
+## What I’m Working On:
+- **Object Identification & Change Detection:** Developing and optimizing models/algorithms for object detection and change detection in satellite imagery.
+- **Satellite Imagery Acquisition:** Innovating ways to acquire and process satellite imagery efficiently, with an emphasis on real-time data analysis and synthetic data generation.
+- **Model Performance on Edge Devices:** Ensuring high performance of AI models on edge devices, crucial for applications in remote or resource-constrained environments without inernet and without GPUs.
 
-<h3>Problems I work on</h3>
-<ul>
-<li> Object Identification </li>
-<li> Change Detection </li>
-<li> Satellite Imagery Acquisition and Insights </li>
-<li> Model Performance on Edge devices </li>
-</ul>
-
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/vikashkodati/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/vikashkodati" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/vikashkodati" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://vikashkodati.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/My_Personal-Website-blue" /></a>
-</p>
+## Key Projects & Contributions:
+  
+## Let's Connect:
+I’m always open to connecting with like-minded professionals, entrepreneurs, and enthusiasts. Feel free to reach out to me on [X.com](#https://www.x.com), [LinkedIn](#https://www.linkedin.com/in/vikashkodati), or explore more about my work on [My Personal Website](#https://www.vikashkodati.com).
