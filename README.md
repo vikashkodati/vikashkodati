@@ -9,14 +9,14 @@ I'm Vikash, an experienced engineer and architect currently residing in Seattle,
   
 - **Alumni Leader:** As the Treasurer of IITGAA, I’m deeply involved in strengthening the bonds within our alumni community and promoting initiatives that drive impact and collaboration.
 
-- **Well-Being Advocate:** I believe in maintaining a holistic balance between professional pursuits and personal well-being. Whether it's exploring the great outdoors in the Pacific Northwest or spending quality time with family, I ensure that life’s important facets receive the attention they deserve.
+- **Well-Being Advocate:** I believe in maintaining a holistic balance between professional pursuits, personal well-being, and spiritual growth. Whether it's exploring the great outdoors in the Pacific Northwest, spending quality time with family, or embarking on a spiritual quest to understand the observer within, I ensure that life’s important facets receive the attention they deserve.
 
 ## What I’m Working On:
 - **Object Identification & Change Detection:** Developing and optimizing models/algorithms for object detection and change detection in satellite imagery.
 - **Satellite Imagery Acquisition:** Innovating ways to acquire and process satellite imagery efficiently, with an emphasis on real-time data analysis and synthetic data generation.
 - **Model Performance on Edge Devices:** Ensuring high performance of AI models on edge devices, crucial for applications in remote or resource-constrained environments without inernet and without GPUs.
 
-## Key Projects & Contributions:
+<!-- ## Key Projects & Contributions: -->
   
 ## Let's Connect:
 I’m always open to connecting with like-minded professionals, entrepreneurs, and enthusiasts. Feel free to reach out to me on [X.com](https://www.x.com), [LinkedIn](https://www.linkedin.com/in/vikashkodati), or explore more about my work on [My Personal Website](https://www.vikashkodati.com).
