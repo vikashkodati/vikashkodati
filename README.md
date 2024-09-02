@@ -3,7 +3,7 @@
 I'm Vikash, an experienced engineer and architect currently residing in Seattle, WA. Originally from India, I’ve made a journey across disciplines, balancing cutting-edge technology with entrepreneurial ventures, while nurturing a fulfilling personal life.
 
 ## About Me:
-- **Engineer by Profession:** With a strong foundation in architecture and engineering, I have a deep passion for building scalable systems and solving complex problems. My work spans across AI, space technologies 🚀 , and geospatial data, where I blend technical depth with strategic insight.
+- **Engineer and Architect by Profession:** With a strong foundation in architecture and engineering, I have a deep passion for building scalable systems and solving complex problems. My work spans across AI, space technologies 🚀 , and geospatial data, where I blend technical depth with strategic insight.
   
 - **Entrepreneur & Angel Investor:** I actively invest in and mentor startups, particularly in the emerging tech and space sectors 🚀 . My focus is on fostering innovation and driving growth in companies that are shaping the future.
   
