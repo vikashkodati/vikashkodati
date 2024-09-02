@@ -6,6 +6,8 @@ I'm Vikash, an experienced engineer and architect currently residing in Seattle,
 - **Engineer and Architect by Profession:** With a strong foundation in architecture and engineering, I have a deep passion for building scalable systems and solving complex problems. My work spans across AI, space technologies 🚀 , and geospatial data, where I blend technical depth with strategic insight.
   
 - **Entrepreneur & Angel Investor:** I actively invest in and mentor startups, particularly in the emerging tech and space sectors 🚀 . My focus is on fostering innovation and driving growth in companies that are shaping the future.
+
+- **Parent:** Being a father to a lovely daughter, I cherish the role of parenthood. It’s a constant source of joy, inspiration, and learning, keeping me grounded and reminding me of what truly matters in life.
   
 - **Alumni Leader:** As the Treasurer of IITGAA, I’m deeply involved in strengthening the bonds within our alumni community and promoting initiatives that drive impact and collaboration.
 
