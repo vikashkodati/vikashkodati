@@ -1,6 +1,8 @@
 # Welcome to Vikash Kodati's GitHub Profile!
 
-I'm Vikash, an experienced engineer and architect currently residing in Seattle, WA. Originally from India, I’ve made a journey across disciplines, balancing cutting-edge technology with entrepreneurial ventures, while nurturing a fulfilling personal life. In my daily life, I recognize the following personas: Engineer/Architect, Entrepreneur, Parent, Volunteer, Investor and Humanitarian.
+I'm Vikash, an experienced engineer and architect currently residing in Seattle, WA. Originally from India, I’ve made a journey across disciplines, balancing cutting-edge technology with entrepreneurial ventures, while nurturing a fulfilling personal life. 
+
+In my daily life, I recognize the following personas: ** Engineer/Architect, Entrepreneur, Parent, Volunteer, Investor and Humanitarian **
 
 More details about me [here](https://vikashkodati.github.io/) 
 
