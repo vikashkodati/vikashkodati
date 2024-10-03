@@ -7,13 +7,16 @@ I'm Vikash, an experienced engineer and architect currently residing in Seattle,
 
 - **Entrepreneur:** I thrive in the dynamic environment of startups, where I apply my business acumen and technical expertise to bring innovative ideas to life. My journey in entrepreneurship is driven by a desire to solve real-world problems through technology.
 
-- **Parent:** Being a father to a lovely daughter, I cherish the role of parenthood. It’s a constant source of joy, inspiration, and learning, keeping me grounded and reminding me of what truly matters in life.
+- **Angel Investor:** I actively invest in and mentor startups, particularly in the emerging tech and space sectors. My focus is on fostering innovation and driving growth in companies that are shaping the future.
 
-- **Alumni Leader:** As the Treasurer of IITGAA, I’m deeply involved in strengthening the bonds within our alumni community and promoting initiatives that drive impact and collaboration.
+- **Parent:** Father to a lovely daughter, I cherish the role of parenthood. It’s a constant source of joy, inspiration, and learning, keeping me grounded and reminding me of what truly matters in life.
+
+- **Alumni Association Treasurer:** As the Treasurer of IITGAA, I’m deeply involved in strengthening the bonds within our alumni community and promoting initiatives that drive impact and collaboration.
 
 - **Well-Being Advocate:** I believe in maintaining a holistic balance between professional pursuits, personal well-being, and spiritual growth. Whether it's exploring the great outdoors in the Pacific Northwest, spending quality time with family, or embarking on a spiritual quest to understand the observer within, I ensure that life’s important facets receive the attention they deserve.
 
 ## What I’m Working On:
+- **Training Vision Model for Niche usecases**
 - **Object Identification & Change Detection:** Developing and optimizing models/algorithms for object detection and change detection in satellite imagery.
 - **Satellite Imagery Acquisition:** Innovating ways to acquire and process satellite imagery efficiently, with an emphasis on real-time data analysis and synthetic data generation.
 - **Model Performance on Edge Devices:** Ensuring high performance of AI models on edge devices, crucial for applications in remote or resource-constrained environments without inernet and without GPUs.
