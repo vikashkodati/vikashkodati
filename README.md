@@ -13,4 +13,6 @@ Feel free to reach out to me on [X.com](https://www.x.com), [LinkedIn](https://w
 - **Model Performance on Edge Devices:** Ensuring high performance of AI models on edge devices, crucial for applications in remote or resource-constrained environments without inernet and without GPUs.
 
 ## Key Projects & Contributions:
-  
+This AI content moderation tool operates entirely offline on edge devices. It uses synthetic data to fine-tune models for better accuracy. Fast, reliable content filtering without sacrificing user privacy. Content is categorized in real-time.
+- **[Team](https://lablab.ai/event/next2-edge-runners/morpheus/safeedge-online-education-inclusive-and-enjoyable)**
+- **First Place in [Hackathon](https://www.youtube.com/watch?v=gP6afM7pEBE&t=6279s)** 
